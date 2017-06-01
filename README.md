@@ -4,4 +4,4 @@
 # Nightclubs 
 
 We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
-![documentations](http://getprowl.com/assets/images/prowlbox.png)
+![documentations](http://getprowl.com/assets/images/prowlbox.jpg)
