@@ -42,7 +42,7 @@ Implanting a Prowlbox at your retail store could be crucial for your PoS service
 
 We can decipher moods from people's playlist, which of course depending on the mood of the overall crowd in your coffee shop/retail store, you can switch the music to say "upbeat  music" to increase chances of sales, via mood, or even play more depressing music so the people shop more via "Retail Therapy", to make themselves feel better. 
 
-![documentations](http://www.getprowl.com/assets/images/flow.png)
+![documentations](flow.png)
 
 With some of the software we offer (along side the box) is heatmaps of the store where it gets cold at certain times, and why this might be - to see if that customer was listening to music at that time or not, or at the very LEAST to see what their Spotify playlist says about their personality so Prowl can start bulding customer profiles on individual customers.
 
