@@ -1,11 +1,11 @@
-![documentations](http://getprowl.com/assets/images/documentation1.png)
+![documentations](documentation1.png)
 <h1 align="center">Common Use Cases with Prowl</h1>
 
 # Nightclubs 
 
 We've installed Prowlboxes at various venues, but nothing as diverse as a nightclub. 
 
-![documentations](http://getprowl.com/assets/images/prowlbox.jpg)
+![documentations](prowlbox.jpg)
 
 This is so you can see your patrons playlist (once they are connected to your WiFi, they automatically accept the ToS by accepting the ToS that the club's WiFi has. So this is completely fine. 
 
@@ -56,6 +56,6 @@ If you get results, then reboot the container via
 
 <pre>docker restart</pre> 
 
-![documentations](https://getprowl.com/assets/images/terminal.png)
+![documentations](terminal.png)
 
 That should solve 99% of the issues, we are currently working for a fix on this problem, it's only happened once. One time is too many though for our device to fail. This will be solved within the week of this MD page being made. 
